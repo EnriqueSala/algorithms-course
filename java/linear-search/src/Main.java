@@ -2,6 +2,8 @@
 public class Main {
     public static void main(String[] args) {
         verify(11);
+        verify(6);
+
     }
 
     //returns index position of the target if found, else returns none
